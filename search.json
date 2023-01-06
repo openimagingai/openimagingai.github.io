@@ -18,7 +18,7 @@
     "href": "posts/hello-world/index.html",
     "title": "Hello World",
     "section": "",
-    "text": "This is my first hello world blog\nprint(“hello world!”)"
+    "text": "This is my first hello world blog\n\nprint(\"hello world!\")"
   },
   {
     "objectID": "posts/post-with-code/index.html",
