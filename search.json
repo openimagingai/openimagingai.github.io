@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Open source medical imaging software",
     "section": "",
-    "text": "Hello World\n\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\nYour Name\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello World\n\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\nYour Name\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnext step\n\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\nYour Name\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/hello-world/index.html",
@@ -19,6 +19,13 @@
     "title": "Hello World",
     "section": "",
     "text": "This is my first hello world blog\n\nprint(\"hello world!\")\n\nhello world!"
+  },
+  {
+    "objectID": "posts/next-step/index.html",
+    "href": "posts/next-step/index.html",
+    "title": "next step",
+    "section": "",
+    "text": "print(\"confirming changes\")\n\nconfirming changes"
   },
   {
     "objectID": "posts/post-with-code/index.html",
