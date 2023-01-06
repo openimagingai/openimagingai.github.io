@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About openimaging.ai",
     "section": "",
-    "text": "About this blog"
+    "text": "I am a medical imaging research scientist developing open source software for clinical translation of new techniques. This blog will be used to post code, ideas, pitfalls and lessons i’ve learned. Hopefully these posts will be useful to others too. If you find any bugs or issues, or have ideas or code to contribute, please let me know via github."
   },
   {
     "objectID": "index.html",
